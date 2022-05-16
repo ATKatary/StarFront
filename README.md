@@ -1,4 +1,4 @@
-# Star_Front
+# Star Front
 A fun single player game
 ## Rules
 You must find a placement of 2 stars (🌟) such that each row, each column, and each region of the puzzle has exactly 2 stars, and no stars are vertically, horizontally, or diagonally adjacent.
